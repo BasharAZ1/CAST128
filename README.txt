@@ -1,6 +1,6 @@
-My apologies for the misunderstanding. Here's the updated README file with a larger font size:
 
-# README File: Encryption-Decryption using CAST-128 with McEliece cryptosystem and EL-GAMAL signature on SMS Text Messages between 2 Clients
+
+#  Encryption-Decryption using CAST-128 with McEliece cryptosystem and EL-GAMAL signature on SMS Text Messages between 2 Clients
 
 This program is a Java-based implementation of encryption-decryption using CAST-128 with McEliece cryptosystem and EL-GAMAL signature on SMS text messages between two clients. The program features a Graphical User Interface (GUI) created using Scene Builder and implements the Diffie-Hellman Key Exchange Algorithm for secure key exchange.
 
